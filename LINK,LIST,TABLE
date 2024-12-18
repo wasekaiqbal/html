@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <B> CLCK HERE TO LOG IN INTO YOUR PINTEREST</B>
+    <a href="https://www.pinterest.com/"> <B> CLCK HERE TO LOG IN INTO YOUR PINTEREST</B></a>
+ <h4>Things to do to stay healthy</h4>
+ <ul>
+    <li>balanced diet</li>
+    <li>exercise</li>
+    <li>Medicationst</li>
+    <li>Health checkups</li>
+ </ul>  
+ <ol>
+    <h4>Names of winners of annual sports(skipping)</skipping></h4>
+    <li>Rusaba jahrin</li>
+    <li>Anumegha das</li>
+    <li>miskatul momo</li>
+</ol>
+    <dl>
+        <dt>CESC</dt>
+        <DD> cesc is a good institution to read in. it starts from nursury to 10 in school and 11 and 12 in college.</DD>
+    <table border="1.5">
+        <tr>
+            <th>characteristics</th>
+            <th>unicellular</th>
+            <th>Multicellular</th>
+        </tr>
+        <tr>
+            <td>type of cell</td>t
+            <td>prokaryote</td>
+            <td>eukaryote</td>
+        </tr>
+        <tr>
+            <td>size</td>
+            <td>small</td>
+            <td>large</td>
+        </tr>
+        <tr>
+            <td>structure</td>
+            <td>simple</td>
+            <td>complex</td>
+        </tr>
+    </table>
+ 
+</body
+</html>
