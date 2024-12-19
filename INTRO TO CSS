@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        b{
+            color:rgb(216, 111, 128)
+        }
+        #a1{
+            color:rgb(192, 154, 192)
+        }
+        #a2{
+            color:rgb(173, 104, 226)
+        }
+        .boo{
+            color:rgb(134, 189, 231)
+        }
+        #n1,#n2,#n3{
+            color:rgb(222, 180, 164)
+        }
+    </style>
+    <link rel="stylesheet" href="INTODUCTION CSS.css">
+</head>
+<body>
+    <p style="color:rgb(107, 158, 189)"> WE LOVE DOING CODING</p>
+    <b> DESIGN</b><br>
+    <small> Css can be used to inhance the design done in html</small>
+    <h5 id="a1"> CSS SEEMS QUITE FUN AND INTERESTING</h5><BR>
+        <h5 id="a2"> WE WILL BE DOING MORE FUN STUFF USING IT</h5>
+        <i class="boo"> INTRODUCTORY CLASS OF CSS</i>
+        <h2 id="n2"> GROUP SELECTOR</h2>
+        <h2 id="n1"> GROUP SELECTOR</h2>
+        <h2 id="n3"> GROUP SELECTOR</h2>
+</body>
+</html>
