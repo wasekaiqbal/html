@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <Style>
+        #UNIQUE{
+            color:cadetblue
+        }
+        #m1,#m2,#m3,#m4,#m5,#m6,#m7{
+            color:rgb(117, 196, 196)
+        }
+        p{
+            color:rgb(30, 70, 109)
+        }
+    </Style>
+</head>
+<body>
+    <h1 style="color:rgb(77, 145, 145)">SCHOOL OF CODINGAL</h1><br>
+<I style="color:rgb(63, 137, 100)">WELCOME TO THE SCHOOL OF CODINGAL</I>
+<br>
+The School of Codingal offers education from Nursery to Grade 10, blending academics with <mark>interactive learning</mark> and <mark>extracurriculars</mark>. We focus on 21st-century skills like coding, creativity, and critical thinking to prepare students for the future.
+<br><br><b id="UNIQUE">OUR UNIQUE CHARACTERISTICS!</b>
+<ul>
+<LI><mark id="m1">21st-Century Skills</mark>: Coding, AI, and robotics programs.</LI>
+<LI><mark id="m2">Interactive Learning</mark>: Gamified lessons and smart classrooms.</LI>
+<LI><mark id="m3">Innovation Lab</mark>: Hands-on science and technology projects.</LI>
+<LI><mark id="m4">Personalized Education</mark>: Tailored learning plans and mentorship.</LI>
+<LI><mark id="m5">Leadership & Life Skills</mark>: Public speaking and problem-solving focus.</LI>
+<LI><mark id="m6">Global Exposure</mark>: International collaborations and competitions.</LI>
+<LI><Mark id="m7">Balanced Growth</Mark>: Academics, sports, arts, and mental well-being.</LI>
+</ul>
+<b><i style="color:rgb(87, 131, 112)">ACHIEVEMENTS OF SOC</i></b><br>
+<p>The School of Codingal has excelled in academics and beyond, with students winning national and international competitions in coding, robotics, and science fairs. Boasting a <b>100%</b> vsuccess rate in board exams, we’ve also earned top awards in sports, arts, and debates. Recognized for innovation, we’ve received accolades for technology-driven and holistic education.</p>
+<br><br>
+<B><I style="color:rgb(61, 152, 164)">Latest News of SCHOOL OF CODINGAL</I></B>
+<table border="1.7">
+    <tr>
+        <th>Date</th>
+        <th>event</th>
+    </tr>
+    <tr>
+        <td>18.12.2024</td>
+        <td>Class party of class VI-IX</td>
+        <tr>
+            <td>19.12.2024</td>
+            <td>Class party of class I-V</td>
+        </tr>
+        <tr>
+            <td>24.12.2024</td>
+            <td>Result showing of nursery-class I </td>
+        </tr>
+        <tr>
+            <td>25.12.2024</td>
+            <td>Result showing of class II-V</td>
+        </tr>
+        <tr>
+            <td>26.12.2024</td>
+            <td>Result showing of class VI-IX</td>
+        </tr>
+        <tr>
+            <td>01.01.2025</td>
+            <td>Book giving ceremony</td>
+        </tr>
+    </tr>
+</table>
+<br>
+<B><I style="color:grey">NEW ADMISSION DETAILS</I></B><br>
+<i style="color:indianred">Updates will be given soon!</i><br><BR>
+FOR PICTURE OF SCHOOL:<br>
+<a href="https://files.oaiusercontent.com/file-HZvSuuwdQMZRF5juMBUeB2?se=2024-12-18T13%3A14%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1ac664ee-bffd-471f-a39a-4874d30800b4.webp&sig=XsueHvxaN4w50SyZg22NFjVQ07aY6aRBXt0fZBXKeAo%3D"><I>Click here</I></a>
+</body>
+</html>
