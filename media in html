@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <img src="https://c02.purpledshub.com/40/2023/08/JI230816Cosmos220-6d9254f-edited-scaled.jpg?w=1029&webp=1"
+   Width="200PX" HEIGHT="250PX" alt="pink flower"> 
+   <video height="450px" width="250px" controls autoplay>
+   <source src="html .mp4" type="video/mp4">
+   </video>
+   <audio controls autoplay>
+<source src="name.mp3" type="audio/mpeg" >
+   </audio>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/sFY7MN_FAUE?si=0wkvnv93BfXPWtsP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
