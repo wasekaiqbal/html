@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1 style="color:rgb(65, 128, 84)"> WELCOME TO THE WELLEBING CLUB OF CODINGAL</h1>
+    <br>
+    <H3> Our activities</H3>
+    <ul>
+        <li id="a1"> physical fitness</li>
+        <li id="a2"> Focus on mental health</li>
+        <li id="a3"> Brief discussion on healthy diet</li>
+        <li id="a4"> Teach how to use medical equipments</li>
+        <li id="a5"> Focus on discipline</li>
+    </ul>
+        <br>
+        <p> This club will help increase a student's condidence</p>
+        <p> in addition it will make a student lead a healthier lifestyle</p>
+        <br>
+        <a href=""> <b> 1.details on wellebing club</b></a>
+        <br>
+         <a href=""><b>2.Know more about us</b></a>
+         <img src="https://img.freepik.com/free-vector/healthy-lifestyle-diet-fitness-vector-sign-shape-heart-with-multiple-icons-depicting-various-sports-vegetables-cereals-seafood-meat-fruit-sleep-weight-beverages_1284-44073.jpg" 
+         height="300px" weight="300px" alt="healthy habits">
+</body>
+</html>
