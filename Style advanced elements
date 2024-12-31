@@ -1,0 +1,31 @@
+h3{
+    color:rgb(36, 114, 58)
+    font
+}
+ul{
+    color:rgb(57, 150, 57)
+}
+p{
+    color:rgb(87, 145, 125)
+}
+body{
+    background-color: rgb(233, 247, 175);
+}
+ul li:hover{ color:rgb(60, 111, 60)}
+a:hover{ color:forestgreen}
+ul li::before{
+    content:"🥗";
+}
+p::first-letter{
+    font-size: 30px;
+    color:rgb(49, 103, 85)
+}
+li:nth-child(3){
+    background-color: #deeb8a;
+}
+p{
+    font-weight:bold
+}
+a{ 
+    color:darkolivegreen
+}
