@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+
+h4{
+    width:100px;
+    border: 2.5px solid grey;
+    margin:20px 20px;
+    padding:10px 5px 10px 5px;
+background-color: cornsilk;
+}
+p{
+    width: 550px;
+    border:5px solid grey;
+    padding:10px;
+    margin: 10px 10px;
+    background-color:rgb(165, 207, 165)
+}
+#hand1{
+    width: 100px;
+    height:100px;
+    float:right;
+}
+#hand2{
+    width:100px;
+    height:100px;
+    float:left;
+}
+    </style>
+</head>
+<body>
+ <h4>hello everyone  </h4>
+<p> I hope this letter finds you well. I am writing to you regarding [mention the purpose of the letter briefly].
+
+    [Provide more details about the purpose of your letter. Explain your thoughts, concerns, or requests clearly and concisely. If necessary, include examples or evidence to support your points.]
+    
+    I kindly request [state any specific action you want from the recipient or what outcome you are expecting]. Please let me know if further information or clarification is needed.
+    
+    Thank you for taking the time to read my letter. I look forward to your response.</p>
+    <img id="hand1" src="hand.jpg" alt="hello">
+    <img id="hand2" src="hand.jpg" alt="hello"
+</body>
+</html>
