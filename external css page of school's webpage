@@ -1,0 +1,12 @@
+h1,h3{
+    color:rgb(62, 118, 167);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 03px 10px;
+}
+body{
+    background-color: rgb(245, 249, 253);
+}
+ul,p,table{
+    color:rgb(52, 42, 42);
+    font-family:'Times New Roman', Times, serif;
+}
