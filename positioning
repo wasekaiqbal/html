@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+      div.p1{
+        position:fixed;
+        top:10px;
+        right:20px;
+        width:300px;
+        border:2px solid #7c0d0d
+      }  
+      #p2{ 
+        position:sticky;
+        top: 30px;
+        right:10px;
+        left:10px;
+width:300px;
+border:2px solid rgb(72, 77, 177)
+      }
+      div.p4{
+        position:absolute;
+        left:0px;
+        top:90px;
+        border:3px solid rebeccapurple;
+      }
+      div.p3{
+        position:relative;
+        left:20px;
+        top: 80px;
+        border: 2px solid rebeccapurple;
+      }
+      
+    </style>
+</head>
+<body>
+    <div class="p1">today we are learning about positioning</div>
+<div id="p2">It helps us make our webpage more attractive and user friendly</div>
+<div class="p3">at first we will practise relative position</div>
+<div class="p4">then we will practise absolute position</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
