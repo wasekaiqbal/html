@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+div{
+    background-color: rgb(83, 174, 106);
+    padding:30px;
+}
+.o1{
+    opacity:1;
+}
+.o2{
+    opacity: 0.8;
+}
+.o3{
+    opacity:0.6;
+}
+.o4{ 
+    opacity:0.4;
+}
+    </style>
+</head>
+<body>
+  <center><h1>LIST OF FOODS</h1></center> 
+  <div class="o1"> 1. green leafy vegetables, fruits, local vegetables</div> 
+  <div class="o2"> 2. chicken, fish, egg, milk</div>
+  <div class="o3"> 3. lentils, rice,bread</div>
+  <div class="o4"> 4. junk foods, pizza, burger</div>
+</body>
+</html>
