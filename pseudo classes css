@@ -1,0 +1,41 @@
+h1,h3{
+    color:rgb(62, 118, 167);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 03px 10px;
+}
+body{
+    background-color: rgb(245, 249, 253);
+}
+ul,p,table{
+    color:rgb(52, 42, 42);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#description::first-letter{
+    font-weight: bold;
+    font-size: 30px;
+}
+#b2::before{
+    content:"📚";
+}
+#b3::before{
+    content:"🔬";
+}#b4::before{
+    content:"🎨";
+}#b5::before{
+    content:"💻";
+}#b6::before{
+    content:"🌟";
+}#b7::before{
+    content:"🌎";
+}#b1::before{
+    content:"🏆";
+}
+#b8::before{
+    content:"🎓";}
+a{
+    color:rgb(52, 42, 42) ;}
+    a:hover{color:rgb(74, 134, 224);}
+#link::after{
+content:" 🔗 🔊";
+}
