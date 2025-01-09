@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <style>
+.col{
+    border: 2.34px solid grey
+}
+    </style>
+</head>
+<body>
+    <center><h1>BOOTSRAP</h1></center>
+    <Div class="container">
+        <div class="row">
+            <div class="col">
+                column 1
+            </div>
+            <div class="col">
+                column 2
+            </div>
+            <div class="col">
+                column 3
+            </div>
+        </div>
+    </Div>
+</body>
+</html>
