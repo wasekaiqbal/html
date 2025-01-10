@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Webpage css.css">
+    <link href="Oswald (1)/">
+</head>
+<body>
+   <header>
+    <img class="logo" src="logo.webp" alt="logo" height="100px" width="100px">
+    <br>
+    <h1><center>School of codingal</center></h1>
+    <p id="p4">The School of Codingal stands as a beacon of holistic education, offering a vibrant learning environment for students from nursery to Grade 10. At Codingal, we believe that every child is unique, and our curriculum is designed to celebrate and nurture their individuality. From their earliest steps in education, students are immersed in a dynamic blend of academics, interactive learning, and creative exploration. Our highly trained faculty leverages modern teaching methodologies to ensure concepts are not just taught but experienced, fostering a deep love for learning and curiosity in young minds.</p>
+<p class="pp"> Beyond the traditional classroom experience, The School of Codingal is a hub of extracurricular activities aimed at developing well-rounded individuals. Whether it’s through music, sports, art, or robotics clubs, students are encouraged to discover and refine their passions. Our state-of-the-art facilities and dedicated mentors provide the perfect backdrop for honing these talents, helping students strike a balance between academics and extracurricular pursuits. Participation in these activities not only builds confidence and teamwork but also cultivates critical 21st-century skills such as problem-solving, adaptability, and communication. </p> 
+  <p class="ppp">In a world driven by technological advancement, Codingal is committed to preparing its students for the future. With a special emphasis on advanced skills like coding, digital literacy, and innovative thinking, we empower our learners to thrive in an ever-evolving global landscape. Our interactive approach ensures students are equipped not just with knowledge but also with the tools to apply it creatively and meaningfully. At The School of Codingal, we don’t just educate; we inspire students to lead, innovate, and excel in every facet of life.</p>
+
+</header>
+   <section> 
+    <article>
+    <hr>    <h3 id="UNIQUE">Our Unique Characteristics</h3>
+<ul>
+<LI id="m1"><b>21st-Century Skills:</b> Coding, AI, and robotics programs.</LI>
+<LI  id="m2"><b>Interactive Learning:</b> Gamified lessons and smart classrooms.</LI>
+<LI  id="m3"><b>Innovation Lab:</b> Hands-on science and technology projects.</LI>
+<LI  id="m4"><b>Personalized Education:</b> Tailored learning plans and mentorship.</LI>
+<LI id="m5"><b>Leadership & Life Skills:</b> Public speaking and problem-solving focus.</LI>
+<Li id="m6"><b>Global Exposure:</b> International collaborations and competitions.</LI>
+<LI id="m7"><b>Balanced Growth:</b> Academics, sports, arts, and mental well-being.</LI>
+</ul>
+<hr> <h3 class=achieve> Achievements of The School Of Codingal</h3>
+<ul>
+    <li id="b1">Students have won national and international coding and robotics competitions.</li>
+    <li id="b2"> 100% success rate in board examinations with top-ranking students.</li>
+    <li id="b3">Multiple awards in science fairs and innovation challenges.</li>
+    <li id="b4">Excellence in sports, arts, and debates at state and national levels.</li>
+    <li id="b5">Recognized for integrating technology into education.    </li>
+    <li id="b6"> Recipient of awards for promoting holistic and skill-based learning.</li>
+    <li id="b7">Successful participation in global exchange and collaboration programs.</li>
+    <li id="b8">Alumni thriving in prestigious universities and organizations.</li>
+</ul>
+<hr><h3>Latest News of The School Of Codingal</h3>
+<table border="1.7">
+    <tr>
+        <th>Date</th>
+        <th>event</th>
+    </tr>
+    <tr>
+        <td>05.01.2025</td>
+        <td>Starting of the practise of annual sports</td>
+        <tr>
+            <td>07.01.2025</td>
+            <td>Athletics of class I-V</td>
+        </tr>
+        <tr>
+            <td>09.01.2025</td>
+            <td>Athletics of class Vi-X </td>
+        </tr>
+        <tr>
+            <td>10.01.2025</td>
+            <td>Athletics of class Xi-Xii</td>
+        </tr>
+        <tr>
+            <td>24.01.2025</td>
+            <td>Annual sports 2025</td>
+        </tr>
+        <tr>
+            <td>01-03.02.2025</td>
+            <td>Science Fair 2025</td>
+        </tr>
+    </tr>
+</table>
+<br>
+<figure>
+    <hr><h3>Image of The School Of Codingal</h3>
+    <img src="school.webp" height="300px" width="500px" alr="school of codingal">
+   <hr> <h3>Some of our activities</h3>
+    <video height="500px" width="500px" controls autoplay>
+    <source src="html .mp4" type="video/mp4"><br>
+</figure>
+    </article>
+</section>
+<footer>
+    <hr><h3> admission details</h3>
+   <p id="link"><i>Updates will be given on the official facebook page</i></p> 
+   <hr> <h3> Visit our website</h3>
+   <p><a href="https://www.codingal.com/en-bd/"><i>click here</i></a></p> 
+</footer>
+</body>
+</html>
