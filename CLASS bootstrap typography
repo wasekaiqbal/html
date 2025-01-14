@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <style>
+    body{
+        background-color: rgb(219, 209, 197);
+    }
+    </style>
+</head>
+<body>
+    <h1>My school</h1>
+    <p>I am a proud student of <abbr title="Cantonment English School and College">CESC</abbr>.</p>
+    <H1>Study motivations</H1>
+    <blockquote class="blockquote">
+        <p>“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.” </p>
+        <footer class="blockquote-footer">Malcolm X</footer>
+        <h1>Things needed to study properly</h1>
+        <pre>
+            pen
+            pencil
+            copy
+            book
+            highlighter
+            calculator(maths,physics,chemistry etc.)
+        </pre>
+        <h1>Some necessary keyboard shortcuts</h1>
+        <ul>
+            <li><kbd>ctrl/cmd+a</kbd> to select all</li>
+            <li><kbd>ctrl/cmd+c</kbd> to copy</li>
+            <li><kbd>ctrl/cmd+v</kbd> to paste</li>
+            <li><kbd>ctrl/cmd+x</kbd> to cut</li>
+            <li><kbd>ctrl/cmd+z</kbd> to undo</li>
+        </ul>
+    </blockquote>
+</body>
+</html>
