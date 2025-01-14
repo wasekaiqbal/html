@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <style>
+        .row{
+            border: 2.4px solid rgb(40, 47, 40);
+            PADDING:10PX
+        }
+        CENTER{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    </style> 
+</head>
+<body>
+    <center><b><h1>NOTICE BOARD</h1></b></center>
+    <center><b>THE NAMES OF THE EVENTS IN GIVEN BELOW:</b></center>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-lg-8" style="background-color:rgb(14, 172, 172)"> inter-house football competition</div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col col-lg-8" style="background-color:aquamarine"> science fair 2025</div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col col-lg-8" style="background-color:aquamarine"> intra-school cultural competition</div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-lg-8" style="background-color:rgb(14, 172, 172)"> Cultural competiton</div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-lg-8" style="background-color:rgb(14, 172, 172)"> spelling bee 2025</div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col col-lg-8" style="background-color:aquamarine"> Gk quiz on currant affairs</div>
+        </div>
+    </div>
+    <b><i style="color:rgb(60, 60, 220)"> NB: the events coming closer will be extended for large screen users</i></b>
+</body>
+</html> 
