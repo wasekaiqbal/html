@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+</head>
+<body>
+    <div class="container mt-2">
+<h1>Lets explore different types of color buttons of bootstrap</h1>
+<button type="button" class="btn-primary">Primary color</button><br>
+<button type="button" class="btn-danger"> danger button</button><br>
+<button type="button" class="btn-dark">dark color</button><br>
+<button type="button" class="btn-secondary"> secondary button</button><br>
+<button type="button" class="btn-success">success color</button><br>
+<button type="button" class="btn-warning"> warning button</button><br>
+</div>
+<div class="container">
+    <h1><b>Different badges</b></h1>
+    <span class="badge badge-primary">primary</span>
+    <span class="badge badge-secondary">secondary</span>
+    <span class="badge badge-danger">danger</span><br>
+    <span class="badge badge-success">success</span>
+    <span class="badge badge-dark"> dark</span>
+    <span class="badge badge-white">White</span>
+</div>
+<div class="container">
+    <center><b><h1>Notification bar</h1></b></center>
+    <button type="button" class="btn-warning">Snapchat <span class=" badge badge-dark">20+</span></button><br><br>
+    <button type="button" class="btn-success">whatsapp <span class=" badge badge-light">2</span></button><br><br>
+    <button type="button" class="btn-primary">facebook <span class="badge badge-light">5</span></button>
+</div>
+<div class="container">
+    <center><h1><b>Prefectship eligibility of waseka</b></h1></center>
+<h2><b>in terms of cultural</b></h2>
+    <div class="progress">
+        <div class="progress-bar bg-danger" style="width:60%">60%</div>
+    </div>
+    <h2><b>in terms of sports</b></h2>
+    <div class="progress">
+        <div class="progress-bar bg-warning" style="width:30%">30%</div>
+    </div>
+    <h2><b>in terms of academics</b></h2>
+    <div class="progress">
+        <div class="progress-bar bg-success" style="width:80%">80%</div>
+    </div>
+</div>
+</body>
+</html>
