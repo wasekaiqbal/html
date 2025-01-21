@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <style>
+body{
+    background-color: rgb(242, 249, 236);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+    </style>
+</head>
+<body>
+    <center><b><h1 class="display-3">TECH POINT</h1></center></b><br>
+    <blockquote class="blockquote">
+    <p><i><mark>"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."</i></p></mark>
+<footer class="blockquote-footer">Bill Gates</footer>
+</blockquote>
+<p>With that being said, short cut keys have a huge role in the 21st century in building a proffesional carrer and help out in daily lives. It makes a work more efficient, easier and less time consuming. Using shortcut keys can stand out one from another during competitive exams or job interviews leading to academic or professional success</p>
+<h1><b>Some important shortcur keys are:</b></h1>
+<pre>
+    <kbd>ctrl/cmd+a</kbd> to select all
+    <kbd>ctrl/cmd+b</kbd> to bold text
+    <kbd>ctrl/cmd+c</kbd> to copy
+    <kbd>ctrl/cmd+e</kbd> to align text to center
+    <kbd>ctrl/cmd+i</kbd> to make text ilatilc
+    <kbd>ctrl/cmd+j</kbd> to justify
+    <kbd>ctrl/cmd+l</kbd> to align text to left
+    <kbd>ctrl/cmd+m</kbd> to minimize window
+    <kbd>ctrl/cmd+p</kbd> to create pdf
+    <kbd>ctrl/cmd+r</kbd> to reload/align text to right
+    <kbd>ctrl/cmd+t</kbd> to open new tab
+    <kbd>ctrl/cmd+v</kbd> to paste
+    <kbd>ctrl/cmd+w</kbd> to close tab
+    <kbd>ctrl/cmd+x</kbd> to cut
+    <kbd>ctrl/cmd+z</kbd> to undo
+    <kbd>ctrl/cmd+shift+n</kbd> to crate new folder
+    <kbd>ctrl/cmd+shift+delete</kbd> to delete all browsing history
+    <kbd>ctrl/cmd+shift+o</kbd> to open bookmarks manager
+    <kbd>ctrl/cmd+plus(+)</kbd> to zoom in
+    <kbd>ctrl/cmd+minus(-)</kbd> to zoom out
+    <kbd>ctrl/cmd+0</kbd> to reset zoom
+</pre><hr>
+<p>Powerpoint is a very necessary skill for presenting any thought or idea in a presentable manner in a formal way. Wether it is in school,college,university or in workplace, making a powerpoint is a must in all cases. So here are some simple powerpoint tricks for excelling you powerpoint presentations</p>
+<h1><b>Powerpoint tricks:</b></h1>
+<ul>
+    <li>Press <kbd>ctrl/cmd+d</kbd> to dupicate any object, slide,image,text box etc</li>
+    <li>Press <kbd>b</kbd> to have a black screen durin>g presentation</li>
+    <li>Press <kbd>W</kbd> to have a white screen durin>g presentation</li>
+    <li>Press <kbd>slide number+enter</kbd> to directlt move to a speciifc slide during presentation</li>
+    <li>Press <kbd>ctrl/cmd+g</kbd> to group objects</li>
+    <li>Press <kbd>ctrl/cmd+shit+g</kbd> to ungroup objects</li>
+    <li>For a gradient background: press<code> design > format background > gradient fill</code></li>
+    <li> to insert picture in a specific shape press:<code> insert > shapes/icons > shape format > picture fill > insert picture</code></li>
+</ul>
+</body>
+</html>
