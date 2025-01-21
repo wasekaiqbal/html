@@ -21,13 +21,15 @@ h1{
     </style>
 </head>
 <body>
-    <center><b><h1 class="display-3">TECH POINT</h1></center></b><br>
+    <div class="container">
+    <center><b><h1 class="display-3">TECH POINT</h1></center></b><br></div>
     <blockquote class="blockquote">
     <p><i><mark>"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."</i></p></mark>
 <footer class="blockquote-footer">Bill Gates</footer>
 </blockquote>
 <p>With that being said, short cut keys have a huge role in the 21st century in building a proffesional carrer and help out in daily lives. It makes a work more efficient, easier and less time consuming. Using shortcut keys can stand out one from another during competitive exams or job interviews leading to academic or professional success</p>
 <h1><b>Some important shortcur keys are:</b></h1>
+<div class="container">
 <pre>
     <kbd>ctrl/cmd+a</kbd> to select all
     <kbd>ctrl/cmd+b</kbd> to bold text
@@ -51,8 +53,10 @@ h1{
     <kbd>ctrl/cmd+minus(-)</kbd> to zoom out
     <kbd>ctrl/cmd+0</kbd> to reset zoom
 </pre><hr>
+</div>
 <p>Powerpoint is a very necessary skill for presenting any thought or idea in a presentable manner in a formal way. Wether it is in school,college,university or in workplace, making a powerpoint is a must in all cases. So here are some simple powerpoint tricks for excelling you powerpoint presentations</p>
 <h1><b>Powerpoint tricks:</b></h1>
+<div class="container">
 <ul>
     <li>Press <kbd>ctrl/cmd+d</kbd> to dupicate any object, slide,image,text box etc</li>
     <li>Press <kbd>b</kbd> to have a black screen durin>g presentation</li>
@@ -63,5 +67,6 @@ h1{
     <li>For a gradient background: press<code> design > format background > gradient fill</code></li>
     <li> to insert picture in a specific shape press:<code> insert > shapes/icons > shape format > picture fill > insert picture</code></li>
 </ul>
+</div>
 </body>
 </html>
