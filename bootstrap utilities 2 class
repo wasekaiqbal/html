@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <STYLE>
+        img{ 
+         border-radius: 60%;  
+         height:400px;
+         width:400px;
+        }
+    </STYLE>
+    </head>
+<body>
+   <H1><CENTER Style="color:rgb(217, 116, 186)"><b>WORLDS MOST BEAUTIFUL FLOWERS</b></CENTER></H1> 
+   <div class="container">
+    <div class="card" style="width: 400px; height:400px"  >
+<img class="card-img-top" src="https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg" alt="rose">
+<div class="card-body" >
+    <h3 class="card-title">Rose</h3>
+    <p class="card-text">A rose is a fragrant, flowering plant known for its beauty and symbolism. Roses come in a variety of colors, each with unique meanings: red for love, white for purity, yellow for friendship, pink for gratitude, and more. They belong to the genus Rosa and typically have thorny stems, lush petals, and a captivating fragrance. Roses are admired worldwide in gardens, bouquets, and art, often associated with romance and celebrations. With over 300 species and countless hybrids, they thrive in diverse climates and are cultivated for their elegance, versatility, and timeless appeal.</p>
+    <a href="data:image/jpeg;base64,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" class="btn btn-info">SEE BLACK ROSE</a>
+    <h1><b> Different spinners</b></h1>
+    <p>Normal</p>
+    <div class="spinner-border"></div>
+    <p>Growing</p>
+    <div class="spinner-grow"></div>
+    <p>small</p>
+    <div class=" spinner-border spinner-border-sm"></div>
+    <p>color</p>
+    <div class="spinner-border text-danger"></div>
+<BR><BR><HR>
+    <h2><b>TOOOOO MANY TABSSS</b></h2>
+    <ul class="pagination">
+        <li class="page-item">
+            <a class="page-link" href="#"><</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="#">1</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="#">2</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="#">3</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="#">4</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="#">></a>
+        </li>
+</ul>
+</div>
+    </div>
+   </div> 
+</body>
+</html>
