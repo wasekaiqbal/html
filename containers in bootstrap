@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+</head>
+<body>
+    <h1><b>Traffic lights</b></h1><br>
+    <div class="container-fluid bg-success text-white" >
+        <h1>Green light</h1>
+        <p>When green light is shown, cars will go and people can't cross the roads</p>
+    </div>
+    <div class="container bg-warning text-white" >
+        <h1>yellow light</h1>
+        <p>When yellow light is shown, cars will go as well as prepare themselves to wait for red light and people will prepare themeselves cross the roads</p>
+    </div> 
+    <div class="container-fluid bg-danger text-white" >
+        <h1>red light</h1>
+        <p>When red light is shown, cars will not go and people will cross the roads</p>
+    </div>
+    <div class="container-fluid p-2 my-3 mx-3 bg-dark text-white">
+        <h1> Zebra crossing</h1>
+        <p>Zebra crossing s very important to help people cross roads safely</p>
+    </div>
+</body>
+</html>
