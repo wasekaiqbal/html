@@ -1,0 +1,13 @@
+<html lang="en">
+<head>
+</head>
+<body>
+    <p id="sum"></p>
+    <button onclick="plus(30,30)">CLICK TO SUM</button>
+    <script>
+        function plus(a,b){
+          document.getElementById("sum").innerHTML=a+b
+    }
+    </script>
+</body>
+</html>
