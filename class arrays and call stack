@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <h1><b>INTRO TO ARRAYS</b></h1>
+<!-- <p id="join" ></p>
+<p id="pop" ></p>
+<P Id="colours"></P> -->
+<h1>CALL STACK</h1>
+<p id="average"></p>
+<script>
+    function add(x,y){
+        return x + y;
+    }
+    function average(x,y){
+        return add(x,y) / 2;
+    }
+    let result = average(50, 50);
+    document.getElementById("average").innerHTML = result;
+    var pastel = [
+        "pink",
+        "yellow",
+        "blue",
+        "purple"
+];
+// document.getElementById("colours").innerHTML = pastel[3];
+// document.write(pastel[2]);
+
+// ARRAY METHODS
+// document.getElementById("join").innerHTML = pastel.join ("+");
+// document.getElementById("pop").innerHTML = pastel; 
+// pastel.pop();
+// document.getElementById("colours").innerHTML = pastel; 
+
+</script>
+</body>
+</html>
