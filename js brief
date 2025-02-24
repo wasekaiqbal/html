@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<body>
+    <!-- <h1><b> JAVASCRIPT DATA TYPES AND DECLATING VARIABLE</b></h1> -->
+     <!-- <h1><b>FUNCTIONS AND CONDITIONS IN JAVA</b></h1>
+     <BUTTON onclick="myfunction()">PRESS TO PROCEED</BUTTON>
+     <P id="hour"></P>
+     <P id="greet"></P> -->
+     <h2>JAVA WHILE LOOP</h2>
+     <p id="number"></p>
+    <script>
+        var num = "";
+        var i = 0;
+        while (i < 10) {
+            text += "<br> the number is " + i;
+            i++;
+        }
+        document.getElementById("number").innerHTML = num;
+        // var A = 5;
+        // var B = 10;
+        // var C = 5;
+        // var D = null;
+        // var E;
+        // document.write("A and B are equal : " + (A==B));
+        // document.write("<br> ");
+        // document.write("A and C are equal : " + (A==C));
+        // document.write("<br> ");
+        // document.write("D = : " +  D );
+        // document.write("<br> ");
+        // document.write("E = : " +  E );
+        // document.write("<br> ");
+        // function myfunction() {
+        //     var greeting;
+        //     var time = new Date() .getHours();
+        //     if (time < 10) {
+        //         greeting = "good morning";
+        //     }
+        //    else if (time < 20) {
+        //         greeting = "good day";
+        //     }
+        //     else {
+        //         greeting = "good evening";
+        //     }
+        //     document.getElementById("hour").innerHTML = "currant hour is = " + time;
+        //     document.getElementById("greet").innerHTML = greeting;
+        // }
+    </script>
+</body>
+</html>
